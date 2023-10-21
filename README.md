@@ -17,10 +17,18 @@ To train the DeepTrack model, you'll need the `train.mat`, `val.mat`, and `test.
 **Training Command**:
 ```bash
 python3.8 train.py
+```
 
+## Testing
+To evaluate the trained model, use the test.mat file with the following command:
+**Testing Command**:
+```bash
+python3.8 evaluate.py
+```
 
 
 If you use DeepTrack in your research, please cite:
+```
 @ARTICLE{9770480,
   author={Katariya, Vinit and Baharani, Mohammadreza and Morris, Nichole and Shoghli, Omidreza and Tabkhi, Hamed},
   journal={IEEE Transactions on Intelligent Transportation Systems},
@@ -31,3 +39,4 @@ If you use DeepTrack in your research, please cite:
   pages={18927-18936},
   doi={10.1109/TITS.2022.3172015}
 }
+```
