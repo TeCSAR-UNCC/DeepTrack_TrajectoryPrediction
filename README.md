@@ -3,7 +3,20 @@ Welcome to the DeepTrack GitHub repository, a cutting-edge solution for vehicle 
 
 Despite its compact design, DeepTrack delivers accuracy levels that rival leading trajectory prediction models.  With its reduced computational demands, DeepTrack is ideal for deployment on IoT devices in dynamic traffic scenarios. 
 
+# DeepTrack: Vehicle Trajectory Prediction
 
+Welcome to the DeepTrack GitHub repository, a state-of-the-art solution for vehicle trajectory prediction leveraging deep learning techniques.
+
+![Figure 1](./images/figure1.png)
+
+**Dataset for Evaluation**: DeepTrack is evaluated using the NGSIM dataset, as showcased in the CS-LSTM method by N. Deo.
+
+## Training DeepTrack
+To train the DeepTrack model, you'll need the `train.mat`, `val.mat`, and `test.mat` files. These files should be generated following the method illustrated by CS-LSTM.
+
+**Training Command**:
+```bash
+python3.8 train.py
 
 
 
