@@ -6,7 +6,7 @@ Despite its compact design, DeepTrack delivers accuracy levels that rival leadin
 
 
 
-# Citation:
+
 If you use DeepTrack in your research, please cite:
 @ARTICLE{9770480,
   author={Katariya, Vinit and Baharani, Mohammadreza and Morris, Nichole and Shoghli, Omidreza and Tabkhi, Hamed},
