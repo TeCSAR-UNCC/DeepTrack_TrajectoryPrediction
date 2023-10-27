@@ -3,7 +3,7 @@ Welcome to the DeepTrack GitHub repository, a cutting-edge solution for vehicle 
 
 Despite its compact design, DeepTrack delivers accuracy levels that rival leading trajectory prediction models.  With its reduced computational demands, DeepTrack is ideal for deployment on IoT devices in dynamic traffic scenarios. 
 
-# DeepTrack: Vehicle Trajectory Prediction
+# DeepTrack Workflow
 
 ![Figure 1](./images/deeptrack_overview.png)
 
