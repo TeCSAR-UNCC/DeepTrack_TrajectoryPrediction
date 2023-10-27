@@ -5,8 +5,6 @@ Despite its compact design, DeepTrack delivers accuracy levels that rival leadin
 
 # DeepTrack: Vehicle Trajectory Prediction
 
-Welcome to the DeepTrack GitHub repository, a state-of-the-art solution for vehicle trajectory prediction leveraging deep learning techniques.
-
 ![Figure 1](./images/deeptrack_overview.png)
 
 **Dataset for Evaluation**: DeepTrack is evaluated using the NGSIM dataset, as showcased in the CS-LSTM method by N. Deo.
